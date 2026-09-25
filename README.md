@@ -1,5 +1,7 @@
 
 #  Myntra E-Commerce Analysis Dashboard
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6c56911d-615e-414f-89b7-64a944a159c9" />
+
 
 **Myntra E-Commerce Analysis Dashboard** is a data visualization project built using **Power BI**. The primary objective of this project is to analyze 2 years of e-commerce data (user interactions, product pricing, ratings, and customer engagement) to uncover critical **Data-Driven Insights** for business growth.
 
